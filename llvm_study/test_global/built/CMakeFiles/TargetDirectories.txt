@@ -1,0 +1,4 @@
+/home/xbx/Desktop/llvm_study/test_global/built/CMakeFiles/intrinsics_gen.dir
+/home/xbx/Desktop/llvm_study/test_global/built/CMakeFiles/test_global.dir
+/home/xbx/Desktop/llvm_study/test_global/built/CMakeFiles/edit_cache.dir
+/home/xbx/Desktop/llvm_study/test_global/built/CMakeFiles/rebuild_cache.dir
